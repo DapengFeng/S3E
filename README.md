@@ -1,4 +1,4 @@
-<h1> <a href="https://pengyu-team.github.io/S3E">S3E: A Mulit-Robot Multimodal Dataset for Collaborative SLAM</a> </h1>
+<h1> <a href="https://pengyu-team.github.io/S3E">S3E: A Multi-Robot Multimodal Dataset for Collaborative SLAM</a> </h1>
 
 > [!TIP]
 > This is a project website of S3E dataset. 
